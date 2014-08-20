@@ -1,0 +1,39 @@
+The project assigned is to develop an Android mobile application to
+
+enable clinical appointment booking and cancellation, as opposed to 
+
+appointment booking via telephonic or internet means. This will help 
+
+reach out to the numerous stakeholder of the institute. 
+
+The app, being developed for Android, was built using the Android 
+
+Development Tools provided by Google. 
+
+The app consists of a home screen with four buttons, for Appointments, 
+
+Cancellation, About Us and Contact Us along with a photo of the 
+
+institute. Appointments is either new appointment or returning, 
+
+and details such as Name, Phone Number, Email etc. or MR 
+
+number are collected using a form and these details are sent to 
+
+appointment@lvpei.org using the JavaMail library without user 
+
+intervention. A similar procedure exists for Cancellation, with only MR 
+
+number being sent.
+
+About Us and Contact Us contain the corresponding information and 
+
+details. 
+
+The App was developed and tested for different devices and screens, and 
+
+the UI was tested against the randomized user input test or the Monkey 
+
+test. The App was exported and was prepared for publishing and handed 
+
+over to the institute.
