@@ -1,0 +1,11 @@
+a= int(raw_input(""))
+b=int(raw_input(""))
+c=int(raw_input(""))
+l=[]
+l.append(a+b+c)
+l.append(a+b*c)
+l.append(a*b*c)
+l.append(a*(b+c))
+l.append(a*b+c)
+l.append((a+b)*c)
+print max(l)
